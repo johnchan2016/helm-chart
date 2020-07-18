@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  blue-whale:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-18T23:21:22.682214+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 00a60de8e317557a3f353723637cd6b5bd14a28be7020e39dffc7f8f492bdf30
+    name: blue-whale
+    type: application
+    urls:
+    - https://johnchan2016.github.io/helm-chart/blue-whale-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-18T23:21:22.68165+08:00"
